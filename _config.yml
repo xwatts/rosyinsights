@@ -20,7 +20,7 @@ artifial intelligence, patterns, opportunities, measure, metrics, impact, custom
 strategy, product pricing, product marketing, explainable AI, action plans,
 leverage, machine learning, algorithms, performance tracking, customer mapping, optimization, promotional mix and spend,
 revenue boost, customer affinity, process efficiency"
-description: "Rosy Insights derives intelligence from data that dashboards miss. Discover opportnities that you would haver known were there. Our purpose is to ensure analytics driven growth by unlocking the potential in your data. We deliver customized action plans based on your unique needs. We partner with you to create demosnstratable value for your customers. "
+description: "Rosy Insights derives intelligence from data that dashboards miss. Discover opportunities that you would haver known were there. Our purpose is to ensure analytics driven growth by unlocking the potential in your data. We deliver customized action plans based on your unique needs. We partner with you to create demonstrable value for your customers. "
 source_link: "https://xwatts.github.io/rosyinsights/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
@@ -31,11 +31,11 @@ google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (bl
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#F27457'
-  green:     '#468C32'
-  purple:    '#F2A477'
-  orange:    '#3999BF'
-  turquoise: '#03588C'
+  blue:      '#F22248'
+  green:     '#05B3F2'
+  purple:    '#84BF04'
+  orange:    '#F2CB05'
+  turquoise: '#F28705'
 
 kramdown:
   auto_ids:  false

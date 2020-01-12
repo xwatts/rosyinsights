@@ -32,10 +32,10 @@ colors:
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#F22248'
-  green:     '#05B3F2'
-  purple:    '#84BF04'
-  orange:    '#F2CB05'
-  turquoise: '#F28705'
+  green:     '#6A84A6'
+  purple:    '#9BCAF2'
+  orange:    '#8FAFD9'
+  turquoise: '#05b3f2'
 
 kramdown:
   auto_ids:  false

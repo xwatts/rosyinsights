@@ -14,10 +14,14 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "Rosy Insights"
+keywords:    "Rosy Insights, analytics, consulting, data science, data engineering, detection, data, autonomous, 
+artifial intelligence, patterns, opportunities, measure, metrics, impact, customer profiling, revenue growth,
+strategy, product pricing, product marketing, explainable AI, action plans,
+leverage, machine learning, algorithms, performance tracking, customer mapping, optimization, promotional mix and spend,
+revenue boost, customer affinity, process efficiency"
+description: "Rosy Insights derives intelligence from data that dashboards miss. Discover opportnities that you would haver known were there. Our purpose is to ensure analytics driven growth by unlocking the potential in your data. We deliver customized action plans based on your unique needs. We partner with you to create demosnstratable value for your customers. "
+source_link: "https://xwatts.github.io/rosyinsights/"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
@@ -27,12 +31,11 @@ google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+  blue:      '#03588C'
+  sea:     '#3999BF'
+  orange:    '#F2A477'
+  green:    '#468C32'
+  salmon: '#F27457'
 
 kramdown:
   auto_ids:  false
-
